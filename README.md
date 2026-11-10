@@ -1,6 +1,6 @@
 # Practical Statistics for Data Scientists
 
-Repositori ini dibuat untuk memenuhi tugas individu mata kuliah Machine Learning and Deep Learning. Berisi reproduksi kode pemrograman serta kajian teoretis dari setiap bab berdasarkan buku Practical Statistics for Data Scientists karya Peter Bruce, Andrew Bruce, dan Peter Gedeck.
+Repositori ini dibuat untuk memenuhi **assignment 1** mata kuliah Machine Learning and Deep Learning. Berisi reproduksi kode pemrograman serta kajian teoretis dari setiap bab berdasarkan buku Practical Statistics for Data Scientists karya Peter Bruce, Andrew Bruce, dan Peter Gedeck.
 
 ---
 
